@@ -2,7 +2,11 @@
 
 **Disciplina:** Algoritmo e Pensamento Computacional
 **Professor:** Francisco de Assis Cavallaro
-**Grupo:** _(nomes dos 4 integrantes)_
+**Grupo:**
+- Guilherme Miranda
+- Guilherme Vilela
+- Cauê Dogani
+- João Vitor
 
 ## Objetivo
 Unir criptografia simples, matemática aplicada (progressões e séries) e conceitos de programação em C (arquivos, ponteiros, menus).
