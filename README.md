@@ -1,7 +1,7 @@
 # Criptografia em Duas Camadas (Cifra de César + Sequências Numéricas)
 
 **Disciplina:** Algoritmo e Pensamento Computacional
-**Professor:** Francisco de Assis Cavallaro
+**Professor:** Rafael Oliveira Cotrin
 **Grupo:**
 - Guilherme Miranda
 - Guilherme Vilela
