@@ -1,6 +1,5 @@
 /* Criptografia em duas camadas: Cesar (SHIFT) + sequencia numerica
  * deslocamento da letra i = SHIFT + sequencia[i]  (mod 26)
- * Compilar: gcc -o cripto criptografia_simples.c */
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
