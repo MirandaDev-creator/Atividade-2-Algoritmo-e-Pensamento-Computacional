@@ -86,6 +86,3 @@ Resultado ao rodar `coracao` com SHIFT 3 em cada sequência (PA a₁=1, r=2; PG 
 .
 ├── criptografia_simples.c
 ├── README.md
-├── resultado_criptografia.txt   (gerado)
-└── log_execucao.txt             (gerado)
-```
